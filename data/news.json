@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-11-18T04:31:37.515390Z",
+  "generated_at": "2026-11-18T05:19:13.659517Z",
   "records": [
+    {
+      "id": "rss-819d34e7bd0e160cc3d9",
+      "title": "少子化不只缺工 中研院士示警教育與產業失衡",
+      "source": "中央社產經",
+      "publisher_feed": "中央社產經",
+      "source_kind": "新聞RSS",
+      "published": "2026-11-18T04:38:29Z",
+      "captured": "2026-11-18T05:19:13.659517Z",
+      "url": "https://www.cna.com.tw/news/afe/202611180114.aspx",
+      "summary": "（中央社記者潘姿羽台北18日電）台灣半導體產業蓬勃發展，磁吸大量優秀人才，不過中研院院士蔡瑞胸今天示警，少子化不僅造成勞動力供給減少，在市場與政策力量推波助瀾下，更可能加劇人才向特定產業傾斜，他直言，人才過度集中於半導體產業，對整體社會而言並非健全現象。",
+      "category": "年金福利與退休",
+      "topic": "年金福利與退休",
+      "risk": "低",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "可能影響家庭收入與政府社福預算；不應推論年金金額直接計入健保投保金額。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
+      "id": "rss-c54e398a994a105dc2eb",
+      "title": "彰化縣長政見發表會登場 長者免健保費成攻防焦點",
+      "source": "中央社地方",
+      "publisher_feed": "中央社地方",
+      "source_kind": "新聞RSS",
+      "published": "2026-11-18T04:20:05Z",
+      "captured": "2026-11-18T05:19:13.659517Z",
+      "url": "https://www.cna.com.tw/news/aloc/202611180103.aspx",
+      "summary": "（中央社記者鄭維真彰化18日電）彰化縣長選舉政見發表會今天登場，65歲以上長者免健保費議題成焦點，國民黨候選人魏平政質疑陳素月缺席法案投票；民進黨候選人陳素月說，藍白違反程序，身為律師的魏平政應明白法律規定。",
+      "category": "健保保費與財務",
+      "topic": "健保保費與財務",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "涉及健保基金收入、保險費負擔及政府預算，需區分基金與公務預算。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
     {
       "id": "rss-f51f2f6ddbe5bec91af5",
       "title": "何欣純老人健保補助承諾遭疑 盧秀燕：台中市民有受傷被騙經驗",
@@ -718,6 +762,28 @@
       "category": "勞動薪資與就業",
       "topic": "勞動薪資與就業",
       "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "薪資、受僱身分及最低工資調整可能連動投保金額及保費負擔。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
+      "id": "rss-6cec1130abc41d1c7893",
+      "title": "友善職場育兒彈性工作安排措施獎勵及補助要點",
+      "source": "勞動部全球資訊網",
+      "publisher_feed": "勞動與工資政策索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-17T10:00:06Z",
+      "captured": "2026-11-18T05:19:13.659517Z",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPaXRaVVNIMzRvazhUemNmVmRPUDZNMGo0NHZVbnNsclN3aDFLTFc2NnEtTE9SU3c0Z1lyZzNubG1GWDRiaEFWTUE1aDFURHVYQVpfcllKeHJQLVhDSkp5WkRKdWo2RUhodmR1blpTZmJSZlMtQ3hDZEhjSEtuWnlZazJwTkRiazc2ZmJtU2JGazlNSldUVGdtZDcxaGM2dW9zcjhwcFE0OGRxekJpUEpWWVlkV0tXYTFiOUxhMkc4QWRrY0VxdUxhRTZyYjNPVWw2eTNoTktLX1dZcFk3SnRIVU5uT1Bab3haZXBBX2hndkt1MVVwTWM4enpRTEtweGdDMnpaOVpQODRwc3ZLOHV5TUtDSGpxaU0ycVhsRVpvdWFKUHMybVJMUEJtUDJFY0pZbjBUS0xDdkFSVWJXNjRyRGdickpIdWo0cTRv?oc=5",
+      "summary": "友善職場育兒彈性工作安排措施獎勵及補助要點 勞動部全球資訊網",
+      "category": "勞動薪資與就業",
+      "topic": "勞動薪資與就業",
+      "risk": "低",
       "verification": "待查證",
       "response": "待評估",
       "law": "",
@@ -2932,18 +2998,18 @@
     },
     {
       "name": "健保署公告索引",
-      "count": 82,
+      "count": 80,
       "error": ""
     },
     {
       "name": "立法院相關議案索引",
-      "count": 48,
+      "count": 50,
       "error": ""
     },
     {
       "name": "勞動與工資政策索引",
-      "count": 0,
-      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      "count": 60,
+      "error": ""
     },
     {
       "name": "居留與依親政策索引",
@@ -2952,8 +3018,8 @@
     },
     {
       "name": "主流媒體相關議題索引",
-      "count": 73,
-      "error": ""
+      "count": 0,
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
     }
   ],
   "notice": "RSS metadata only; no full-text scraping or automatic fact-checking."
