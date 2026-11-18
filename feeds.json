@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {"id": "mohw-news", "name": "衛福部焦點新聞", "type": "rss", "url": "https://www.mohw.gov.tw/rss-16-1.html", "official": true},
+    {"id": "mohw-factcheck", "name": "衛福部新聞澄清", "type": "rss", "url": "https://www.mohw.gov.tw/rss-17-1.html", "official": true},
+    {"id": "cdc-news", "name": "疾管署新聞稿", "type": "rss", "url": "https://www.cdc.gov.tw/RSS/RssXml/Hh094B49-DRwe2RR4eFfrQ?type=1", "official": true},
+    {"id": "cdc-factcheck", "name": "疾管署澄清專區", "type": "rss", "url": "https://www.cdc.gov.tw/RSS/RssXml/VYgwM0EtOqAhCmd0iJrhfg?type=4", "official": true},
+    {"id": "cna-life", "name": "中央社生活", "type": "rss", "url": "https://feeds.feedburner.com/rsscna/lifehealth", "official": false},
+    {"id": "cna-politics", "name": "中央社政治", "type": "rss", "url": "https://feeds.feedburner.com/rsscna/politics", "official": false},
+    {"id": "cna-finance", "name": "中央社產經", "type": "rss", "url": "https://feeds.feedburner.com/rsscna/finance", "official": false},
+    {"id": "cna-local", "name": "中央社地方", "type": "rss", "url": "https://feeds.feedburner.com/rsscna/local", "official": false},
+    {"id": "cna-social", "name": "中央社社會", "type": "rss", "url": "https://feeds.feedburner.com/rsscna/social", "official": false},
+    {"id": "nhi-discovery", "name": "健保署公告索引", "type": "query", "query": "site:nhi.gov.tw (健保 OR 保費 OR 給付 OR 藥品 OR 醫療支付)", "official": false},
+    {"id": "ly-discovery", "name": "立法院相關議案索引", "type": "query", "query": "site:ly.gov.tw (全民健康保險 OR 老人福利法 OR 兒童及少年福利)", "official": false},
+    {"id": "labor-discovery", "name": "勞動與工資政策索引", "type": "query", "query": "site:mol.gov.tw (最低工資 OR 移工 OR 退休 OR 勞動)", "official": false},
+    {"id": "immigration-discovery", "name": "居留與依親政策索引", "type": "query", "query": "site:immigration.gov.tw (居留 OR 依親 OR 外國人)", "official": false},
+    {"id": "wide-discovery", "name": "主流媒體相關議題索引", "type": "query", "query": "(健保費 OR 健保署 OR 健保給付 OR 健保總額 OR 長者健保 OR 外籍人士納保)", "official": false}
+  ]
+}
