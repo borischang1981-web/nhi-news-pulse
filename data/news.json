@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T04:16:44.079913Z",
+  "generated_at": "2026-11-18T04:31:37.515390Z",
   "records": [
     {
       "id": "rss-f51f2f6ddbe5bec91af5",
@@ -1982,6 +1982,28 @@
       "draft": ""
     },
     {
+      "id": "rss-990cb208ded41cb1d3f8",
+      "title": "蘇巧慧倡大數據防孤獨死李四川允補助長者健保費| 地方",
+      "source": "中央社 CNA",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-13T05:10:00Z",
+      "captured": "2026-11-18T04:31:37.515390Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RRW90R1RnSGNSbXRwSzZQSmdzSkhoSDNpdG9ZVEJ4MzhIYWlOTUxRUnpuNnVtalBud1ZNVFZoYU1pYWNMQ043QXl4c1NrQlRxcWJLYXhaT0ZxYnZYR3Nv?oc=5",
+      "summary": "蘇巧慧倡大數據防孤獨死李四川允補助長者健保費| 地方 中央社 CNA",
+      "category": "健保保費與財務",
+      "topic": "老人福利法第22條修法",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "涉及健保基金收入、保險費負擔及政府預算，需區分基金與公務預算。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
       "id": "rss-8139a5932bb5da9d6000",
       "title": "新北政見會／蘇巧慧批健保補助修法粗糙 李四川：中央不做地方做",
       "source": "NOWnews今日新聞",
@@ -2920,8 +2942,8 @@
     },
     {
       "name": "勞動與工資政策索引",
-      "count": 61,
-      "error": ""
+      "count": 0,
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
     },
     {
       "name": "居留與依親政策索引",
