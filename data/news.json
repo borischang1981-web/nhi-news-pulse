@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-11-19T17:20:32.108957Z",
+  "generated_at": "2026-11-19T21:07:24.760223Z",
   "records": [
+    {
+      "id": "rss-65eee89b8e5427da91a9",
+      "title": "室內裝修公司標下健保署LINE宣導 涂權吉質疑",
+      "source": "行銷人",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-19T18:31:24Z",
+      "captured": "2026-11-19T21:07:24.760223Z",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOTHdHaFotQjlaT3NYNTVKaHY4aElzYnQyblRyMVE2ZXVGRk5UWkxRQ2Eta2FoVk9iXy10anJ0TmwtblBlVzBFdzdqdWdDX0xiSnZTb0VZdXpFaWVOamw4VHBfZFl4TU5NLXdmQTBsN0ZhNWxmc0w1S1Nkdm1vRTZQQ1ZJZzYyTDAzVjhOQUdJVDNCVm13UUVIYW9Sa1NRZWhuNDZ4ZF9vT0Foc2xGRzFVdHFaaHZpanpSZmE0VmdKUG9TanZ5QWtjbGlWSUFpc2VwNEJqbFVBd0UtS3hRci10aHJjMEctTTA1X3hsZnc3ZVV6NjEwVlpCSFhPeFlraUx5aGdsUUVJQy1FUm5UVGJmRVYtem1UcDMwZnloWTBGeHZEVWdoTzdub1N3dTRRLThteUg1SjAwZmRSRWJiaWV2TG9feFFaME9mSnZMZ2dQOEdnOEJWTEM1SmlrcjhrREQwV0xZczVEUQ?oc=5",
+      "summary": "室內裝修公司標下健保署LINE宣導 涂權吉質疑 行銷人",
+      "category": "其他政策",
+      "topic": "其他政策",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "需查閱原始內容，再評估是否連動健保制度。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
+      "id": "rss-a61c2d1ee6f3c4ba7a84",
+      "title": "室內裝修公司標下健保署LINE宣導 涂權吉質疑",
+      "source": "蕃新聞",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-19T17:33:16Z",
+      "captured": "2026-11-19T21:07:24.760223Z",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hSm12UkZ0dFlteTYxU29oemc2RzN1enMyOWloa3ZCcHJneUMxVHJpbWtoNVhySXdna1JDemNDN2NtR1NoZy1vdS1Ta2pwalhTZUE?oc=5",
+      "summary": "室內裝修公司標下健保署LINE宣導 涂權吉質疑 蕃新聞",
+      "category": "其他政策",
+      "topic": "其他政策",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "需查閱原始內容，再評估是否連動健保制度。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
     {
       "id": "rss-831e59d049b0d9f4f97d",
       "title": "65歲免健保費誰說了算？藍轟劉建國缺席表決、綠批修法傷弱勢",
@@ -6621,7 +6665,7 @@
     },
     {
       "name": "居留與依親政策索引",
-      "count": 47,
+      "count": 44,
       "error": ""
     },
     {
