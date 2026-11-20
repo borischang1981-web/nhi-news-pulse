@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T21:07:24.760223Z",
+  "generated_at": "2026-11-20T01:28:14.159701Z",
   "records": [
     {
       "id": "rss-65eee89b8e5427da91a9",
@@ -2092,6 +2092,28 @@
       "draft": ""
     },
     {
+      "id": "rss-b280e0a04b842cb9a335",
+      "title": "中市長選將辯論 攻防老人健保",
+      "source": "中國時報- 翻爆",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-18T08:00:00Z",
+      "captured": "2026-11-20T01:28:14.159701Z",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcUFOMXZRRVJUSDFrR2M0dHBmUVA5dFd3UU1VWDc3VW5ITWc0UmlZdzJXWTJxLWxEdDBMaVVyaXAyQ21pNWxycmlZRDBWRXhHc3pNZE9oS2ZoM3d0SXpDRm5ZNUVoS0x1alVCOU5laTdHb1Z2em9sNEQtQ0syejNRS2lUZEpTQQ?oc=5",
+      "summary": "中市長選將辯論 攻防老人健保 中國時報- 翻爆",
+      "category": "高齡與長照",
+      "topic": "高齡與長照",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "可能影響醫療利用、長照與健保給付的分工，以及高齡人口資源配置。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
       "id": "rss-6d9091afb0c3e23ef194",
       "title": "全台247間藥局倒閉？健保署澄清統計差異：特約藥局10年增27%",
       "source": "Newtalk新聞",
@@ -2263,6 +2285,28 @@
       "law": "",
       "stakeholders": "",
       "linkage": "薪資、受僱身分及最低工資調整可能連動投保金額及保費負擔。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
+      "id": "rss-d9429abee5b26afc40cd",
+      "title": "醫院物理治療師爆出走潮 石崇良：健保給付持續調整",
+      "source": "Yahoo新聞",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-18T07:06:54Z",
+      "captured": "2026-11-20T01:28:14.159701Z",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQTHNkNXZoUnYtQXlVeFE1YnJhbHV0ZVpwMWJtX3NvbU5KdUhMczdGOVhadUw0SE41d3RtQVgwTTJTQk4wdWlzOWlXTFpTMVZsNm9ScU5jNzRIclp0c2w1UHlhdFV2Y1pXaXg3TnY2NDNrRFVqbFFqeHpwTzU2c0xGMEJxdTl3Ui1QNWJSQ1V3N2NzekZfR0tFZnpfbzJBMk5pMHh0SUZBbHdLV0pmYmxuRUNqSV9zQzVYel9VZHREYUxXSmxXZ0p3bHJ4X0VtNDZTUlFESkZSdFBGZWxER08tbzhfeVl3U0hnR0JTazRDY1BkaEpsUkF3QWpzdVpybnZjUU1iYVZuS2lSU0kxYmZ0dXNhejJ2aWNnS3laUndQM1lrNVJvR2VDOVdiTWprMzN1WVhyZGVRaDgtUEZqTWpoNlVUQ0xkZWgwU1NsbHhybkRNR2NRcjZjNVF0MGxzUQ?oc=5",
+      "summary": "醫院物理治療師爆出走潮 石崇良：健保給付持續調整 Yahoo新聞",
+      "category": "醫療人力與醫院",
+      "topic": "醫療人力與醫院",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "醫事人力與院所經營可能影響醫療可近性及支付需求，不等於健保支付已調整。",
       "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
       "note": "",
       "draft": ""
@@ -3663,6 +3707,28 @@
       "captured": "2026-11-18T04:13:11.945228Z",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LUnN3MktPM0d6OFZwSXA4RGV6SGlIZ1MzRUpUZWRQOGdPSWd1bGhzS25vX1MtLVFfc0w2QVQ5NHdOSjhQVmRFONIBTEFVX3lxTE9ZZmZFTm4ybU5kcEtpSmltblJkY2hHMlZHYUFDR2NzNTJzT0FLSmZqcklXQnhjRUk2a3pjTGNmMXRfOENTUW4zNE9mZVA?oc=5",
       "summary": "控國民黨恐嚇長輩！何欣純政見會喊話：老人健保補助一定延續 三立新聞網SETN.com",
+      "category": "高齡與長照",
+      "topic": "高齡與長照",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "可能影響醫療利用、長照與健保給付的分工，以及高齡人口資源配置。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
+      "id": "rss-240187615a1121f363c8",
+      "title": "控國民黨恐嚇長輩！何欣純政見會喊話：老人健保補助一定延續",
+      "source": "三立新聞",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-17T11:48:00Z",
+      "captured": "2026-11-20T01:28:14.159701Z",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LUnN3MktPM0d6OFZwSXA4RGV6SGlIZ1MzRUpUZWRQOGdPSWd1bGhzS25vX1MtLVFfc0w2QVQ5NHdOSjhQVmRFONIBTEFVX3lxTE9ZZmZFTm4ybU5kcEtpSmltblJkY2hHMlZHYUFDR2NzNTJzT0FLSmZqcklXQnhjRUk2a3pjTGNmMXRfOENTUW4zNE9mZVA?oc=5",
+      "summary": "控國民黨恐嚇長輩！何欣純政見會喊話：老人健保補助一定延續 三立新聞",
       "category": "高齡與長照",
       "topic": "高齡與長照",
       "risk": "中",
@@ -6650,7 +6716,7 @@
     },
     {
       "name": "健保署公告索引",
-      "count": 64,
+      "count": 65,
       "error": ""
     },
     {
@@ -6660,12 +6726,12 @@
     },
     {
       "name": "勞動與工資政策索引",
-      "count": 65,
+      "count": 63,
       "error": ""
     },
     {
       "name": "居留與依親政策索引",
-      "count": 44,
+      "count": 43,
       "error": ""
     },
     {
