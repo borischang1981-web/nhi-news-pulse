@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-11-21T13:17:00.990213Z",
+  "generated_at": "2026-11-21T17:01:49.228240Z",
   "records": [
+    {
+      "id": "rss-2ad7495d5d0cc24c7575",
+      "title": "5千患者苦等罕藥納健保 將簡化審查加速給付",
+      "source": "UDN",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-21T16:00:00Z",
+      "captured": "2026-11-21T17:01:49.228240Z",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pZDJsSWUwWnVPRW5zYWVCeTFha2JQWXAtMUtxWl9BU2lEZGxVRVByNDctQTN1djJ5ZTFSOGNEeE9nWUFxdmthQlJmdlhlWV9o0gFWQVVfeXFMTmhLdk5yZTkzcVVnMWxBLTFtbG16OXZqQVlPSWF3V2hNSnExajRFYmlIdlVFMEJiYlQ5RVg1VjVhU3lPbjlRX1daTTE3SmhVMi1mLVFqcWc?oc=5",
+      "summary": "5千患者苦等罕藥納健保 將簡化審查加速給付 UDN",
+      "category": "藥品與特材給付",
+      "topic": "藥品與特材給付",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "可能涉及藥物給付條件、事前審查及健保財務，須核對正式支付公告。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
+      "id": "rss-e9eca5bcb00e44ce9933",
+      "title": "回防本命區！蕭美琴站台 陳素月霸氣承諾：65歲以上免健保費必推",
+      "source": "ETtoday新聞雲",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-21T13:45:00Z",
+      "captured": "2026-11-21T17:01:49.228240Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NWnpyWGVfcFJ5Qk1EVV9GNHlldldwVWdqN2FTakVNZXVaNnA2WWF1ZHJqTHVCNnhXcmVGbFdYaC1ZaHlFOEZRNEJTazN0ZTlsNG1IVzdzc3NNNXpHcGfSAUtBVV95cUxNOGNwNEVyWUNnZVJ0NmwtdjJrQmJQeVBSY3hZWFRmNUUwYmgwTmJyYnhMS3pIRFNxcjhUaVU3LVdhdEhseERuUElGYlk?oc=5",
+      "summary": "回防本命區！蕭美琴站台 陳素月霸氣承諾：65歲以上免健保費必推 ETtoday新聞雲",
+      "category": "健保保費與財務",
+      "topic": "健保保費與財務",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "涉及健保基金收入、保險費負擔及政府預算，需區分基金與公務預算。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
     {
       "id": "rss-39427ade44b1d5a89621",
       "title": "不是芭樂票！陳素月晚會闢謠：65歲免健保費任內必推- 股市爆料同學會",
@@ -4578,6 +4622,28 @@
       "draft": ""
     },
     {
+      "id": "rss-9b7f3f492990ec979ebf",
+      "title": "嘉義縣長政見發表會拚福利 吳品叡推第一胎補助6萬、長者健保免費",
+      "source": "UDN",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-18T04:41:05Z",
+      "captured": "2026-11-21T17:01:49.228240Z",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xekFoQ0RBallvdE9JbWYtRDBqa3Z4YlozRERqYTNDZXV3cS1memxvX2JnOVZkZjhFbXVkdUhTV2hpUTMxZWRidGVKVldkcm1Sc2Yw0gFYQVVfeXFMTVc3SUdzdXNOMGcwMlNjdTVCNE5UNU5BbHB6cUptalFfWmJvbHhHUlFYZzR4aGtPa0EwUXRkY21FbEozQVRFVERiQjVPMEw4b3dwSEludlZMMg?oc=5",
+      "summary": "嘉義縣長政見發表會拚福利 吳品叡推第一胎補助6萬、長者健保免費 UDN",
+      "category": "高齡與長照",
+      "topic": "高齡與長照",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "可能影響醫療利用、長照與健保給付的分工，以及高齡人口資源配置。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
       "id": "rss-be1fc8ce78e29d4aafe1",
       "title": "每6例細菌感染1例具抗藥性 健保116年再投入3億提升控制",
       "source": "中央社生活",
@@ -8696,17 +8762,17 @@
     },
     {
       "name": "健保署公告索引",
-      "count": 70,
+      "count": 73,
       "error": ""
     },
     {
       "name": "立法院相關議案索引",
-      "count": 51,
+      "count": 52,
       "error": ""
     },
     {
       "name": "勞動與工資政策索引",
-      "count": 58,
+      "count": 61,
       "error": ""
     },
     {
