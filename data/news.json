@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-11-22T17:00:59.494188Z",
+  "generated_at": "2026-11-22T20:58:55.904457Z",
   "records": [
+    {
+      "id": "rss-306f55a4f67c2a1eaffa",
+      "title": "急診候床12天離世！健保署推轉診獎勵 12月上路",
+      "source": "東森新聞",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-22T14:37:00Z",
+      "captured": "2026-11-22T20:58:55.904457Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VUkpsa3RiMEZpZ3RoT21YTkRKcDNFd05nR0lwUVdNMlhZNEJyYWFEcElVWVF5OEhnY25PUlE0ZW5PQmhQQU9QcUJVQ1lfRW1xQ2t2RQ?oc=5",
+      "summary": "急診候床12天離世！健保署推轉診獎勵 12月上路 東森新聞",
+      "category": "醫療人力與醫院",
+      "topic": "醫療人力與醫院",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "醫事人力與院所經營可能影響醫療可近性及支付需求，不等於健保支付已調整。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
+      "id": "rss-98e01d7c167673bac7de",
+      "title": "屏東市長政見會交鋒！周佳琪拋幼兒免健保費 梁育慈提假牙補助加碼",
+      "source": "屏東小鎮資訊",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-22T13:28:00Z",
+      "captured": "2026-11-22T20:58:55.904457Z",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPcmNGNDdhMFBxMnhqZ1pxU3ZZbzVIcDJlSTVQYjllT2F3TkRHTTdKN0xZM0Z6RHpwalExYmxURU1SWU9CZTlCVlJNVTdTZw?oc=5",
+      "summary": "屏東市長政見會交鋒！周佳琪拋幼兒免健保費 梁育慈提假牙補助加碼 屏東小鎮資訊",
+      "category": "健保保費與財務",
+      "topic": "健保保費與財務",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "涉及健保基金收入、保險費負擔及政府預算，需區分基金與公務預算。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
     {
       "id": "rss-e9baee85450c2a4c00a6",
       "title": "台日菲共同打擊詐欺 逮17外籍嫌犯包括2名台灣人",
@@ -19,6 +63,28 @@
       "law": "",
       "stakeholders": "",
       "linkage": "居留、依親及勞動身分可能連動健保納保資格及等待期。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
+      "id": "rss-6200c90bf2abb78d4c83",
+      "title": "候床12天後離世！急診壅塞惹議 健保署加碼「轉診獎勵」上路",
+      "source": "TVBS新聞網",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-22T09:51:00Z",
+      "captured": "2026-11-22T20:58:55.904457Z",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wR3BfYVlIRWNmbVloSjZpTHpJNHBsUWZ4V2x4eW51MkRZaE02bHhkWnNTSlVzdE9vWU1IZU5Jb1lyOUY1dFRtenNrcW91Zw?oc=5",
+      "summary": "候床12天後離世！急診壅塞惹議 健保署加碼「轉診獎勵」上路 TVBS新聞網",
+      "category": "醫療人力與醫院",
+      "topic": "醫療人力與醫院",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "醫事人力與院所經營可能影響醫療可近性及支付需求，不等於健保支付已調整。",
       "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
       "note": "",
       "draft": ""
@@ -525,6 +591,28 @@
       "law": "",
       "stakeholders": "",
       "linkage": "需查閱原始內容，再評估是否連動健保制度。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
+      "id": "rss-c773709371b611fd6dcd",
+      "title": "江啟臣山城造勢催票 承諾不停老人健保補助 —",
+      "source": "溏風報",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-21T04:13:37Z",
+      "captured": "2026-11-22T20:58:55.904457Z",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE82R3RtX256aUpVUmM3WWlrRGhZbmdRdlJFMHdBR2c1eXgxNjdEUDZFZk40bnFOWk1teFlHaFU2TDZweXNyYnROQXRKS1Q?oc=5",
+      "summary": "江啟臣山城造勢催票 承諾不停老人健保補助 — 溏風報",
+      "category": "高齡與長照",
+      "topic": "高齡與長照",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "可能影響醫療利用、長照與健保給付的分工，以及高齡人口資源配置。",
       "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
       "note": "",
       "draft": ""
@@ -2255,6 +2343,28 @@
       "captured": "2026-11-19T13:36:21.362727Z",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAweTJiQTQ1ak93aHdmVFl3S0NfRnFKa0Y2cWt0MWxpYkUzVnhLaGRJMHZLX3p0eVhlNU9DNEMzUGJkRTJ2UzRJcG1FUHdHaXU3bGZzU0lUODUxZldvOEJ5aXVxM2U2VkZYS3fSAW9BVV95cUxPVmttTV9uVVZjWXMyRDZFU3FTQzRsSVV1bGVBR21BOUpRNU9aMm1uVEg3b1R5bTVRTnNfVGliUmxKWFp2aEt3Vkh4THNDN3JEVkkwakVTZkZmV0dhRjFoMzFwcWhZNk9udk1mc3RuSXM?oc=5",
       "summary": "遭藍批長者健保免費雙標 劉建國反嗆：到底誰才雙標？ 自由時報",
+      "category": "高齡與長照",
+      "topic": "高齡與長照",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "可能影響醫療利用、長照與健保給付的分工，以及高齡人口資源配置。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
+      "id": "rss-1723bcff216a348c9945",
+      "title": "遭藍批長者健保免費雙標 劉建國反嗆：到底誰才雙標？",
+      "source": "Yahoo新聞",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-19T09:24:41Z",
+      "captured": "2026-11-22T20:58:55.904457Z",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPVXkxUkhndlpJaERVMGtTUE05NEItbEFPR1N3b1VIbHZXMnVvaGdhX3pkS3RVdUlnOGlMMFIwVEt6NW0xNGZZTzJQX09oT1diVGF4ZGcyMlNIYWZ6cTB4U1BRRnVMRDk3Wk5xQjdGUmkwSkpGaFNheWNTYjRXS0pIS3BwYVU4cS1BRUs5bWhPSDNzR1VybGYxVzlCRGFESl9USFV1Mi02cG1TM2xNeGJwRHNWZEstVkMzNTk4RUdaRWg2MFkzR25NbGt2R1d6dmFqZ0x5aWpZWUJNZW1rVGZrcWRkRlhZUkdOeTNsT1Y1N3VCWUZFN1I3SWpSOU83eUxVSEFHa0xhdmFGaWNaRWk4VWdWNDBpNnEzSnJZSnJzRWNrZm1WbnV4YWp1NTh6V2NjVkIxcXhxUmdybk9yTDdOZXVlejY5UHgzQnhvdUxhbzdtdmp4aWk2TENSLTBfZw?oc=5",
+      "summary": "遭藍批長者健保免費雙標 劉建國反嗆：到底誰才雙標？ Yahoo新聞",
       "category": "高齡與長照",
       "topic": "高齡與長照",
       "risk": "中",
@@ -9114,17 +9224,17 @@
     },
     {
       "name": "健保署公告索引",
-      "count": 68,
+      "count": 69,
       "error": ""
     },
     {
       "name": "立法院相關議案索引",
-      "count": 0,
-      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      "count": 52,
+      "error": ""
     },
     {
       "name": "勞動與工資政策索引",
-      "count": 62,
+      "count": 63,
       "error": ""
     },
     {
@@ -9134,8 +9244,8 @@
     },
     {
       "name": "主流媒體相關議題索引",
-      "count": 0,
-      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      "count": 95,
+      "error": ""
     }
   ],
   "notice": "RSS metadata only; no full-text scraping or automatic fact-checking."
