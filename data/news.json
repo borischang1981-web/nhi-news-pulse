@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T20:57:07.783465Z",
+  "generated_at": "2026-11-22T01:28:53.074750Z",
   "records": [
     {
       "id": "rss-2ad7495d5d0cc24c7575",
@@ -1163,6 +1163,50 @@
       "law": "",
       "stakeholders": "",
       "linkage": "醫事人力與院所經營可能影響醫療可近性及支付需求，不等於健保支付已調整。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
+      "id": "rss-6eb9430e227ffca14ac3",
+      "title": "外國專業人才及其親屬線上申辦系統 - Immigration",
+      "source": "移民署",
+      "publisher_feed": "居留與依親政策索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-20T08:32:41Z",
+      "captured": "2026-11-22T01:28:53.074750Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BZWVoQ0dweUE4YWdjNWZ0Vkp3bGRUTFg2ajBPWmJUZEViZE41cVhqUDhPS0VxY0dvMWl5TXM4RU1MSEU0RzBUYkZNVngzdHJPUzV2NFhfd3Z0aHF5eXhrS1Atak1YNGZSS3RnX3dYaU82QQ?oc=5",
+      "summary": "外國專業人才及其親屬線上申辦系統 - Immigration 移民署",
+      "category": "移民依親與外籍",
+      "topic": "移民依親與外籍",
+      "risk": "低",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "居留、依親及勞動身分可能連動健保納保資格及等待期。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
+      "id": "rss-e5e92421a87c4dc0fd51",
+      "title": "外國人在臺工作須知",
+      "source": "新住民培力發展資訊網",
+      "publisher_feed": "居留與依親政策索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-20T08:02:16Z",
+      "captured": "2026-11-22T01:28:53.074750Z",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yZjY5YlBmWUFlWnB3dW9WbU00bzB0WHZLUkdETVlsZ2lVeEozQ0ppbVh4bkQxNGtHbVZSRzM2MnByT0JLQUN3N0JZZlQtQUtYYWNlMU5JcV92ZUxHQ2NjbVFJNk1WOXk5STNHaWZDSkRRcUEzcWhBc0Zn?oc=5",
+      "summary": "外國人在臺工作須知 新住民培力發展資訊網",
+      "category": "移民依親與外籍",
+      "topic": "外籍人士健保資格",
+      "risk": "低",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "居留、依親及勞動身分可能連動健保納保資格及等待期。",
       "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
       "note": "",
       "draft": ""
@@ -3055,6 +3099,28 @@
       "law": "",
       "stakeholders": "",
       "linkage": "需查閱原始內容，再評估是否連動健保制度。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
+      "id": "rss-8a800c4de1fe66b5ff26",
+      "title": "【聲明】有關媒體提問，移工懷孕，14周「產假」薪資雇主怎麼負擔？勞動部回應說明",
+      "source": "勞動部全球資訊網中文網",
+      "publisher_feed": "勞動與工資政策索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-18T14:04:46Z",
+      "captured": "2026-11-22T01:28:53.074750Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ndVR0TzdscGVjclBrbmtOVlFQbHk5eERxTzllQURQZ0xFNE1saWlqTkd1ZE5GS2cxYWRrQjVhN3p5N3ZzNVdqbDg3ZF9CRDJtUUdfbTFLbWQ?oc=5",
+      "summary": "【聲明】有關媒體提問，移工懷孕，14周「產假」薪資雇主怎麼負擔？勞動部回應說明 勞動部全球資訊網中文網",
+      "category": "移民依親與外籍",
+      "topic": "外籍人士健保資格",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "居留、依親及勞動身分可能連動健保納保資格及等待期。",
       "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
       "note": "",
       "draft": ""
@@ -8538,6 +8604,28 @@
       "draft": ""
     },
     {
+      "id": "rss-4132ee95fc5ee7dba9c5",
+      "title": "攬才留臺！移民署走入臺北大開講 宣導僑外生畢業就業與居留權益",
+      "source": "新住民全球新聞網",
+      "publisher_feed": "居留與依親政策索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-10-15T07:00:00Z",
+      "captured": "2026-11-22T01:28:53.074750Z",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX1FfNnRxanlvTTlhSmNkTDI2aDU1enhPY3duanFySVZ2R2NPSzlpTldEMzNWd0FwQTYxVUNkQngyZDFoUlhiMC1aR0cwUkVYMUpJdnI3UGNvQUI4bXpCZTJXaXVzcjJKbzV6U3VwQk5HS3NuSm1MVURiSmV6ek5seWw5cjJjek1mbWdmZHlfWVhJLUVTci1FNHdlb3hUbHMzQ0hlMGstVTdWUQ?oc=5",
+      "summary": "攬才留臺！移民署走入臺北大開講 宣導僑外生畢業就業與居留權益 新住民全球新聞網",
+      "category": "移民依親與外籍",
+      "topic": "外籍人士健保資格",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "居留、依親及勞動身分可能連動健保納保資格及等待期。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
       "id": "rss-899037bd40d6485c22b8",
       "title": "有關社群軟體上流傳貼文「移工懷孕勞動部一句話讓雇主養他全家」為嚴重錯誤資訊，勞動部澄清",
       "source": "勞動部全球資訊網",
@@ -8872,22 +8960,22 @@
     },
     {
       "name": "健保署公告索引",
-      "count": 73,
+      "count": 71,
       "error": ""
     },
     {
       "name": "立法院相關議案索引",
-      "count": 100,
+      "count": 53,
       "error": ""
     },
     {
       "name": "勞動與工資政策索引",
-      "count": 61,
+      "count": 62,
       "error": ""
     },
     {
       "name": "居留與依親政策索引",
-      "count": 41,
+      "count": 100,
       "error": ""
     },
     {
