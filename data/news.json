@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-11-22T09:02:50.302744Z",
+  "generated_at": "2026-11-22T13:16:05.458984Z",
   "records": [
+    {
+      "id": "rss-e9baee85450c2a4c00a6",
+      "title": "台日菲共同打擊詐欺 逮17外籍嫌犯包括2名台灣人",
+      "source": "中央社社會",
+      "publisher_feed": "中央社社會",
+      "source_kind": "新聞RSS",
+      "published": "2026-11-22T10:51:31Z",
+      "captured": "2026-11-22T13:16:05.458984Z",
+      "url": "https://www.cna.com.tw/news/asoc/202611220162.aspx",
+      "summary": "（中央社記者林行健馬尼拉22日專電）菲律賓移民局最近在大馬尼拉地區破獲一處可疑詐騙據點，逮捕17名外籍嫌犯，包括2名台灣人；初步調查顯示，2名台嫌分別涉及詐欺及毒品案件，其中1人遭台中地檢署通緝。",
+      "category": "移民依親與外籍",
+      "topic": "外籍人士健保資格",
+      "risk": "低",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "居留、依親及勞動身分可能連動健保納保資格及等待期。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
+      "id": "rss-60715794b10be470825e",
+      "title": "藍指要防政院不副署普發2萬 綠：勿拿財政紀律當選舉賭注",
+      "source": "中央社政治",
+      "publisher_feed": "中央社政治",
+      "source_kind": "新聞RSS",
+      "published": "2026-11-22T08:42:03Z",
+      "captured": "2026-11-22T13:16:05.458984Z",
+      "url": "https://www.cna.com.tw/news/aipl/202611220122.aspx",
+      "summary": "（中央社記者劉冠廷台北22日電）立法院會20日三讀通過普發現金新台幣2萬元特別條例，國民黨團書記長許宇甄今天表示，三讀通過只是第一步，要防止行政院再次用不副署阻擋人民權益。民進黨團幹事長莊瑞雄指出，選舉可以有輸贏，但國家的財政紀律不能拿來當政治賭注。",
+      "category": "立法院修法預算",
+      "topic": "立法院修法預算",
+      "risk": "高",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "須確認提案、審查、三讀、公布及生效等不同法制階段。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
     {
       "id": "rss-2b82d4b039a883ff9687",
       "title": "新北表揚289名托育人員 感謝專業愛心守護幼兒",
@@ -9070,7 +9114,7 @@
     },
     {
       "name": "健保署公告索引",
-      "count": 66,
+      "count": 64,
       "error": ""
     },
     {
@@ -9080,7 +9124,7 @@
     },
     {
       "name": "勞動與工資政策索引",
-      "count": 61,
+      "count": 62,
       "error": ""
     },
     {
@@ -9090,8 +9134,8 @@
     },
     {
       "name": "主流媒體相關議題索引",
-      "count": 100,
-      "error": ""
+      "count": 0,
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
     }
   ],
   "notice": "RSS metadata only; no full-text scraping or automatic fact-checking."
