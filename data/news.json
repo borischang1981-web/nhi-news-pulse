@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-11-22T20:58:55.904457Z",
+  "generated_at": "2026-11-23T01:35:27.448502Z",
   "records": [
+    {
+      "id": "rss-929a5d92c7b823ce5a40",
+      "title": "健保整合長照資源 提升機構住民重拾經口進食尊嚴",
+      "source": "衛福部焦點新聞",
+      "publisher_feed": "衛福部焦點新聞",
+      "source_kind": "官方RSS",
+      "published": "2026-11-23T01:17:00Z",
+      "captured": "2026-11-23T01:35:27.448502Z",
+      "url": "https://www.mohw.gov.tw/cp-16-88561-1.html",
+      "summary": "臺灣已正式進入超高齡社會，長照3.0醫療銜接長照的願景，是「健康台灣」政策的重要目標。研究顯示，鼻胃管長期置放，可能增加胃食道逆流及吸入性肺炎的風險，因此，政府積極推動「無管人生」，健保署表示，115年9月1日起投入2,020萬元新增「醫療機構協助住宿型機構住民移除鼻胃管試辦計畫」，期望透過財務誘因，鼓勵醫療端與長照機構改變臨床照護模式，將醫療專業延伸至住宿型機構，透過跨專業團隊合作、積極提供吞嚥功能評估、訓練，及早移除鼻胃管，兼顧長者的功能恢復與生活品質。 依健保申報資料並追蹤病人流向，114年門、住診約28萬人因醫療需求放置鼻胃管，約九成病人為急性疾病治療所需，屬短期放置鼻胃管；約9%長期留置三個月以上，其照護場域以居家及住宿型",
+      "category": "高齡與長照",
+      "topic": "高齡與長照",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "可能影響醫療利用、長照與健保給付的分工，以及高齡人口資源配置。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
     {
       "id": "rss-306f55a4f67c2a1eaffa",
       "title": "急診候床12天離世！健保署推轉診獎勵 12月上路",
@@ -5392,6 +5414,28 @@
       "draft": ""
     },
     {
+      "id": "rss-ba0884ed6e4240aba11f",
+      "title": "藥局傳倒閉潮！健保署：特約10年成長27%",
+      "source": "Yahoo新聞",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-18T02:09:19Z",
+      "captured": "2026-11-23T01:35:27.448502Z",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPSmF0dHFUUDJRQ1NTNl9wQXRQTHRjaFRuekY5VnR6TzliekxfNDZJNkZ6QUhFQzdfRVcwUkpJaThYQk0wWVE4TmVfd3BwbUFoNmJ6QXQ0WEM1UGprYUpKdERDODNwV1RienlzWkM4STV0Y05UbEtOSHFsSjdkeTBJa0xGRUFyUnEza01WWnZEXzhJZDhwS2JSdHpTbkFCZEkxN0pkOFFMRzlQX3ZiaXJodWJDQ0U2bWtYOFhVUEc0SGRwaVg5TXFyUmlqd2ltUFRFMTlza3BlMzlabEVuVWRnZWYtTWVBdm9BMlZkNU1Bek5QNWlnM1RVWm1YLUNiU0FrZ1pv?oc=5",
+      "summary": "藥局傳倒閉潮！健保署：特約10年成長27% Yahoo新聞",
+      "category": "其他政策",
+      "topic": "其他政策",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "需查閱原始內容，再評估是否連動健保制度。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
       "id": "rss-4494c6db8046da76278b",
       "title": "多納國小附幼族語教學獲雙金 親子共學家庭也獲獎",
       "source": "中央社地方",
@@ -6017,6 +6061,28 @@
       "captured": "2026-11-18T04:13:11.945228Z",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BSVZpTmlRTXNERnNfbG1UYzZCelJwMjNGMEt3RzF5dTNySU1XSTRSekFudkdjX1VYd3FtLUdOWVRlMlFGU1F0Unh3?oc=5",
       "summary": "藥局真有「倒閉潮」？ 健保署：健保特約藥局10年成長27% 匯流新聞網",
+      "category": "其他政策",
+      "topic": "其他政策",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "需查閱原始內容，再評估是否連動健保制度。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
+      "id": "rss-2af423dc1c5c0bd76ced",
+      "title": "藥局真有「倒閉潮」？ 健保署：健保特約藥局10年成長27%",
+      "source": "Yahoo新聞",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-17T10:59:03Z",
+      "captured": "2026-11-23T01:35:27.448502Z",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxObG5Ca19XMGRVRW5WZ1ZOb2R3VlpqQ2F2eS1XSnFFNmYtNTE1UDFfUU5WZGRjNER5S1hBNjNUSTNNSWVldzNYSUtMdWllck1tYzB4cGl2WmtfZC05cmdJSDJTLVEyMVRPNVIwSmY2T1JFYkFOVGFCdWd5b096UlpEZWtCX0dBeWgtVVlxblZObFEzOTgxcWRJbHplak5UYUZzVnBHRlNnUWNYSnYtNFBSQk1VbC1mZEF2U0daVnVFOExaU09xUWM4bVJYM3pCamtzZFVxZWQ3R21INFJERlJNVFM0Z0JYN1lIU2F1RERYUmVTcUM3NzVhbjdpYXhRaDRhWUpiaUFHNW93Uk9RcjV6MEoyRXRteTVxY1V3d2RYaUxrWmFRZUtkeU5KMTZNMXVjeDY0ZzlNTlR4QkZTSnY2RA?oc=5",
+      "summary": "藥局真有「倒閉潮」？ 健保署：健保特約藥局10年成長27% Yahoo新聞",
       "category": "其他政策",
       "topic": "其他政策",
       "risk": "中",
@@ -9152,28 +9218,6 @@
       "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
       "note": "",
       "draft": ""
-    },
-    {
-      "id": "rss-6e41b87eb841da648ed2",
-      "title": "「老人福利法部分條文修正草案」，請審議案。",
-      "source": "立法院議事暨公報資訊網",
-      "publisher_feed": "立法院相關議案索引",
-      "source_kind": "Google新聞索引",
-      "published": "2026-09-23T22:22:07Z",
-      "captured": "2026-11-18T09:21:26.927249Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wUzZwRk5YTk02dGxHUndnbHk4elVjYWMzaVpaM3g0V044b215cmw5WFcyUm0ydmZ1bHJzV3hPNWlTLXg2ZWk2VW5aYjVGZUk1aFFYbk1aTzBjY2dBNEZIWFlUTEczQQ?oc=5",
-      "summary": "「老人福利法部分條文修正草案」，請審議案。 立法院議事暨公報資訊網",
-      "category": "高齡與長照",
-      "topic": "老人福利法第22條修法",
-      "risk": "低",
-      "verification": "待查證",
-      "response": "待評估",
-      "law": "",
-      "stakeholders": "",
-      "linkage": "可能影響醫療利用、長照與健保給付的分工，以及高齡人口資源配置。",
-      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
-      "note": "",
-      "draft": ""
     }
   ],
   "source_status": [
@@ -9224,27 +9268,27 @@
     },
     {
       "name": "健保署公告索引",
-      "count": 69,
+      "count": 72,
       "error": ""
     },
     {
       "name": "立法院相關議案索引",
-      "count": 52,
+      "count": 54,
       "error": ""
     },
     {
       "name": "勞動與工資政策索引",
-      "count": 63,
+      "count": 62,
       "error": ""
     },
     {
       "name": "居留與依親政策索引",
-      "count": 41,
+      "count": 42,
       "error": ""
     },
     {
       "name": "主流媒體相關議題索引",
-      "count": 95,
+      "count": 88,
       "error": ""
     }
   ],
