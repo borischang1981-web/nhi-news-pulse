@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T17:20:36.670071Z",
+  "generated_at": "2026-11-23T21:07:25.803956Z",
   "records": [
     {
       "id": "rss-daa08346c35ee561ba95",
@@ -715,6 +715,28 @@
       "captured": "2026-11-23T05:35:06.074391Z",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fVzJyWWFSYzcwY2hpeDZwaHV4MzlxazRqZHFiekt0S1dQNFVfN2xQS3hHZHZhM3NOTlpFZHRrQXUzUDRzUm5zZ0RSNmQ3MG1jSHJDd21GOW1WZw?oc=5",
       "summary": "頭頸癌健保給付再放寬！10月起免疫治療三大條件調整 | 醫藥生技 | 商情 經濟日報",
+      "category": "其他政策",
+      "topic": "其他政策",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "需查閱原始內容，再評估是否連動健保制度。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
+      "id": "rss-8d7e10ab929ee55fed2b",
+      "title": "兒子沒報稅扶養爸媽，健保卻還要掛他名下？健保署揭關鍵原因 | 魏甫丞 | 風生活",
+      "source": "風傳媒",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-23T02:00:00Z",
+      "captured": "2026-11-23T21:07:25.803956Z",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1maW1FUUVDaS1ILV9Rc1E4eG5mQW1ya041b2dLelZJemdZNXp1QjNMR3YzZllKUmdIU0V0RE9XU1YtdHREQXVxZW1rUElTZHhN?oc=5",
+      "summary": "兒子沒報稅扶養爸媽，健保卻還要掛他名下？健保署揭關鍵原因 | 魏甫丞 | 風生活 風傳媒",
       "category": "其他政策",
       "topic": "其他政策",
       "risk": "中",
@@ -2167,6 +2189,28 @@
       "captured": "2026-11-21T05:12:00.060335Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NeTBBT1J0OVFYU1plcGpqLUhIaHRDcEFyRTNSNWxMUFRIYk9wQ3dFUkFUYjk1VU5sWnJuOENzd21XMTdjZGpwN1dEOUhrYUpvbkE?oc=5",
       "summary": "莊陞漢舉辦問政說明會「爆場」 陳素月闢謠：65歲免健保費一定推 蕃新聞",
+      "category": "健保保費與財務",
+      "topic": "健保保費與財務",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "涉及健保基金收入、保險費負擔及政府預算，需區分基金與公務預算。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
+      "id": "rss-ffc746ad105ebeb143f0",
+      "title": "莊陞漢舉辦問政說明會「爆場」 陳素月闢謠：65歲免健保費一定推",
+      "source": "新頭條",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-20T09:19:55Z",
+      "captured": "2026-11-23T21:07:25.803956Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nNjRvNXd3LXBfY3hiTUxVUldjWHJMZ1J0bWh4OGRwak9mUkUtSHI5ZW8ySlNZb0pJVl85c1BvNDJQWG1oRmdQYm1rQkp6a0RwTmZsVg?oc=5",
+      "summary": "莊陞漢舉辦問政說明會「爆場」 陳素月闢謠：65歲免健保費一定推 新頭條",
       "category": "健保保費與財務",
       "topic": "健保保費與財務",
       "risk": "中",
@@ -6470,6 +6514,28 @@
       "draft": ""
     },
     {
+      "id": "rss-423af802678ffc142b46",
+      "title": "全台「247家健保藥局」驚爆倒閉熄燈 健保署：10年成長27%",
+      "source": "Yahoo新聞",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-18T01:47:31Z",
+      "captured": "2026-11-23T21:07:25.803956Z",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQbUZRQVVfLVV6Z1dhM19YUzhqTUZtZ05jSHRZUkhuS3BJSmkzQ2pBbkJCTWdkMFprekxUU0daZVJoYVZ4Q3hYZURBeUdoTlBOZVFJZUpGX0ZnZjZQNmNwemczSHdUMkNlUGhLTTZFTnhXbUQwSmlLSHZqUG54MVZseWQtWklxQW96bzlvdUJXMWt5bnBXZHFiM0pkVDlOSTRfdXFsa1M2blFQUG9TMG9HU2tiMFVsRnVIdzhBMy1GZXZtMnZCcWcwQ240RHhqUERtbE9rbmN1aUx5d2xwRnJKZHN1ZkFPUkI5Wk9VR1JDQ29jYjZXbkZhTXdMeGhkc1VkZk1EQktzYTEtaGdEQURFdHUzajV4UG5MOWloTVJrVTdMRWlqbnhNX1l5eVNKb3dkdE16dlJUdWF1S0lSamIyZ1dwQjZEUQ?oc=5",
+      "summary": "全台「247家健保藥局」驚爆倒閉熄燈 健保署：10年成長27% Yahoo新聞",
+      "category": "其他政策",
+      "topic": "其他政策",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "需查閱原始內容，再評估是否連動健保制度。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
       "id": "rss-b3ccb5dafe6005b64e4d",
       "title": "全台「247家健保藥局」驚爆倒閉熄燈 健保署：10年成長27%",
       "source": "三立新聞網SETN.com",
@@ -9924,6 +9990,28 @@
       "draft": ""
     },
     {
+      "id": "rss-b55818a291d5a837479f",
+      "title": "肯定企業推動友善職場的用心! 「2026年工作生活平衡獎」頒獎典禮—共響工作與生活幸福雙重奏",
+      "source": "勞動部全球資訊網",
+      "publisher_feed": "勞動與工資政策索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-02T18:38:07Z",
+      "captured": "2026-11-23T21:07:25.803956Z",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HMEVNblByN1ZfbmtfMmJneU1BbXZLTmswODBPRzBfY2tvTWJMN2VJeWh0ODBOVjR0bUtRWXV3SlAxc1c4aGtGeTJLdjRMTXoxS3FheWU5RQ?oc=5",
+      "summary": "肯定企業推動友善職場的用心! 「2026年工作生活平衡獎」頒獎典禮—共響工作與生活幸福雙重奏 勞動部全球資訊網",
+      "category": "勞動薪資與就業",
+      "topic": "勞動薪資與就業",
+      "risk": "低",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "薪資、受僱身分及最低工資調整可能連動投保金額及保費負擔。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
       "id": "rss-61fc0008f72739a14196",
       "title": "流感及新冠疫苗第二階段開打 疾管署攜手萬家福、樂家康推動一站式防疫 接種疫苗再賺健康幣 健康投資一次到位",
       "source": "疾管署新聞稿",
@@ -10522,27 +10610,27 @@
     },
     {
       "name": "健保署公告索引",
-      "count": 100,
+      "count": 76,
       "error": ""
     },
     {
       "name": "立法院相關議案索引",
-      "count": 52,
+      "count": 54,
       "error": ""
     },
     {
       "name": "勞動與工資政策索引",
-      "count": 67,
+      "count": 69,
       "error": ""
     },
     {
       "name": "居留與依親政策索引",
-      "count": 44,
+      "count": 43,
       "error": ""
     },
     {
       "name": "主流媒體相關議題索引",
-      "count": 94,
+      "count": 96,
       "error": ""
     }
   ],
