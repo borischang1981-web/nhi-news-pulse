@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T17:18:28.981473Z",
+  "generated_at": "2026-11-24T21:11:12.699566Z",
   "records": [
     {
       "id": "rss-44464d78a421afb065e5",
@@ -12018,22 +12018,22 @@
     },
     {
       "name": "健保署公告索引",
-      "count": 100,
-      "error": ""
+      "count": 0,
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
     },
     {
       "name": "立法院相關議案索引",
-      "count": 53,
+      "count": 100,
       "error": ""
     },
     {
       "name": "勞動與工資政策索引",
-      "count": 100,
+      "count": 66,
       "error": ""
     },
     {
       "name": "居留與依親政策索引",
-      "count": 100,
+      "count": 43,
       "error": ""
     },
     {
