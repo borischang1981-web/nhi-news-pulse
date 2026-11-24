@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-11-23T21:07:25.803956Z",
+  "generated_at": "2026-11-24T01:33:58.831906Z",
   "records": [
+    {
+      "id": "rss-b32933b9d74fed902516",
+      "title": "健保署推動試辦／依賴鼻胃管一個月機構住民 可適用健保計畫",
+      "source": "自由時報",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-23T21:30:00Z",
+      "captured": "2026-11-24T01:33:58.831906Z",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oUXA3YjVIdWtUdkdXMWZKbWJGd21YaG41aEo3OVJBb1luWUxDeTVlVUUwQVZ6b2RHT0YwVm54SnY5bzFhclhhTEtocllBVGJVZE1NQkdNQUpzQzDSAWBBVV95cUxPcDFaUi1VMnFkTk4wbzBRU29RcXIwZG1jQlp6aWphMmxFaUl3RHVYbWlGX2RJb2l5S3VoRU1YLVVKZFJPTzd0X2NEbmkxWHVTOW5sRDkwUzNpaHZORENfc0o?oc=5",
+      "summary": "健保署推動試辦／依賴鼻胃管一個月機構住民 可適用健保計畫 自由時報",
+      "category": "其他政策",
+      "topic": "其他政策",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "需查閱原始內容，再評估是否連動健保制度。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
     {
       "id": "rss-daa08346c35ee561ba95",
       "title": "回響／推無管人生 健保署擴大獎勵",
@@ -6096,6 +6118,28 @@
       "draft": ""
     },
     {
+      "id": "rss-719e5ef9eb0eaca221d6",
+      "title": "「這腫瘤」新藥9成病友獲控制！健保給付有望擴大成人？健保署回應了",
+      "source": "三立新聞",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-18T04:34:27Z",
+      "captured": "2026-11-24T01:33:58.831906Z",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PbkxNN1hFTXREcGQyejNESnB0dDBjeFYxNEFnMmphNkpVLWNNSVlxcEpWSFJtWFpGWnFCOTNqS0F5NWt4M21BMkVmUGc?oc=5",
+      "summary": "「這腫瘤」新藥9成病友獲控制！健保給付有望擴大成人？健保署回應了 三立新聞",
+      "category": "藥品與特材給付",
+      "topic": "藥品與特材給付",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "可能涉及藥物給付條件、事前審查及健保財務，須核對正式支付公告。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
       "id": "rss-092b1918f4c9f050651f",
       "title": "彰化縣長政見發表會登場長者免健保費成攻防焦點| 縣市長議員選戰| 要聞",
       "source": "UDN",
@@ -9638,6 +9682,28 @@
       "draft": ""
     },
     {
+      "id": "rss-518bd1978c8cf0be16aa",
+      "title": "台中決戰…老人健保補助 藍綠交鋒",
+      "source": "UDN",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-09T08:00:00Z",
+      "captured": "2026-11-24T01:33:58.831906Z",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5STEYxNTNaYk4yQk43VnVjMjRyR2lHUmZkWkNrTThPX3FhaXRXUmhFaDhGVHMtbVVCXzBMcFJWVTBMbXZsUWZKMGVlT0k2T1hRZDVn0gFYQVVfeXFMTzZQNlVVYUlhWHZxenpsXzJZcE1wWUR6R0NWTlhzdS1GX01vQkllLWFkaGQzazVBb3FBelFGQU1WbC15OFVWZVJDQkVhdlMzakh4QjhBbkc0cQ?oc=5",
+      "summary": "台中決戰…老人健保補助 藍綠交鋒 UDN",
+      "category": "高齡與長照",
+      "topic": "高齡與長照",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "可能影響醫療利用、長照與健保給付的分工，以及高齡人口資源配置。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
       "id": "rss-22a14b9b2cff3a5d16ae",
       "title": "長者健保費補助怎麼做？藥界籲兼顧世代公平與健保永續",
       "source": "健康醫療網",
@@ -10012,6 +10078,28 @@
       "draft": ""
     },
     {
+      "id": "rss-6334fdca13141cbb3b14",
+      "title": "苗議會促65歲免健保費鍾東錦：中央不補助才考慮動縣款| 政治",
+      "source": "中央社 CNA",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-02T08:00:00Z",
+      "captured": "2026-11-24T01:33:58.831906Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6M0N0dVJJREp2R3FfZXlkanEyMEZMR0tRQ0VYSlZkeVFtazZDcFgxTHhRTTRZTHU3ZktONUJXYlFpcVo2M0pxME05aGd2S3NGVlJGM0JteVNuTlRvckFv?oc=5",
+      "summary": "苗議會促65歲免健保費鍾東錦：中央不補助才考慮動縣款| 政治 中央社 CNA",
+      "category": "健保保費與財務",
+      "topic": "健保保費與財務",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "涉及健保基金收入、保險費負擔及政府預算，需區分基金與公務預算。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
       "id": "rss-61fc0008f72739a14196",
       "title": "流感及新冠疫苗第二階段開打 疾管署攜手萬家福、樂家康推動一站式防疫 接種疫苗再賺健康幣 健康投資一次到位",
       "source": "疾管署新聞稿",
@@ -10095,6 +10183,28 @@
       "law": "",
       "stakeholders": "",
       "linkage": "涉及健保基金收入、保險費負擔及政府預算，需區分基金與公務預算。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
+      "id": "rss-03584d30bedcd9c496e9",
+      "title": "陳國樑／長者健保補助 別吵錯重點",
+      "source": "UDN",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-10-29T07:00:00Z",
+      "captured": "2026-11-24T01:33:58.831906Z",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTQUVrclRpWnd0OElQLXJPZVlIdjBjek5RcWEyZTZocl9YYkhVRUw3UnVRZlczU2ZGTklxNUhNUVc3c0hxajRyYVBUQmhLM2Na?oc=5",
+      "summary": "陳國樑／長者健保補助 別吵錯重點 UDN",
+      "category": "高齡與長照",
+      "topic": "高齡與長照",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "可能影響醫療利用、長照與健保給付的分工，以及高齡人口資源配置。",
       "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
       "note": "",
       "draft": ""
@@ -10610,27 +10720,27 @@
     },
     {
       "name": "健保署公告索引",
-      "count": 76,
+      "count": 100,
       "error": ""
     },
     {
       "name": "立法院相關議案索引",
-      "count": 54,
+      "count": 100,
       "error": ""
     },
     {
       "name": "勞動與工資政策索引",
-      "count": 69,
+      "count": 71,
       "error": ""
     },
     {
       "name": "居留與依親政策索引",
-      "count": 43,
+      "count": 41,
       "error": ""
     },
     {
       "name": "主流媒體相關議題索引",
-      "count": 96,
+      "count": 100,
       "error": ""
     }
   ],
