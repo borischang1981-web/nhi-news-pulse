@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-11-24T21:11:12.699566Z",
+  "generated_at": "2026-11-25T01:40:07.626940Z",
   "records": [
+    {
+      "id": "rss-e114358f4079a8b71404",
+      "title": "何欣純：願延續補助老人健保 江啟臣：中央出更好",
+      "source": "Yahoo新聞",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-24T22:13:31Z",
+      "captured": "2026-11-25T01:40:07.626940Z",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPNnBKV2Q4TWQ3OTIyMXJsTi1zQ1VMNXlLTll1OE04OGtCdEh4UEk3bW5uUUt6NFZOLXZpVW5Kd2otSWM1UERoTmpmWlJFSlVCUllJY3pVQzhFbEVXdzBUNUtLYWtvWWdYZHY0Tkg5aE1aRGJ0Yi1qdDJXY3VPdzQxT3RYeUtGclNaU1FrTDZINkFCU1d2Z3U3ajFZLUNjblhIUV9uVW1kZGoyYnNyYVVlUURhYzhEeDhjaDdMTzg0bVljSExXbndwUmdwbU5VcHB6N2NZcy1XT0NvY1g3Y211T3U0bUlDSUcxc1JFX1FMZHJFQUFrMjl6M05tV3dtX3AyM2hNWGNIbFJhcHo5ZTE5XzNCUzVybDFlb1Raell1aWdyZnZGMVlDWGNmeTRyYVNTMVZPZWMtMXNyWEJzSUtqcWdfNEc0aDA?oc=5",
+      "summary": "何欣純：願延續補助老人健保 江啟臣：中央出更好 Yahoo新聞",
+      "category": "高齡與長照",
+      "topic": "高齡與長照",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "可能影響醫療利用、長照與健保給付的分工，以及高齡人口資源配置。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
+      "id": "rss-f1659ec54d03cedffe4e",
+      "title": "觀點投書：65歲免繳健保費政策的省思 | 沈立斌 | 評論",
+      "source": "風傳媒",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-24T21:50:00Z",
+      "captured": "2026-11-25T01:40:07.626940Z",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91QVVtX2ROUW9SMXFJdThUbHFCOXFZVERZZFNpRDNLNjN2cVpYdEUzb2JyTnVvZWJpWmdULTYtWDE1bngtWGNDSi1UVEdQdw?oc=5",
+      "summary": "觀點投書：65歲免繳健保費政策的省思 | 沈立斌 | 評論 風傳媒",
+      "category": "健保保費與財務",
+      "topic": "健保保費與財務",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "涉及健保基金收入、保險費負擔及政府預算，需區分基金與公務預算。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
     {
       "id": "rss-44464d78a421afb065e5",
       "title": "何欣純：願延續補助老人健保江啟臣：中央出更好- 股市爆料同學會",
@@ -12018,8 +12062,8 @@
     },
     {
       "name": "健保署公告索引",
-      "count": 0,
-      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      "count": 100,
+      "error": ""
     },
     {
       "name": "立法院相關議案索引",
@@ -12028,12 +12072,12 @@
     },
     {
       "name": "勞動與工資政策索引",
-      "count": 66,
+      "count": 100,
       "error": ""
     },
     {
       "name": "居留與依親政策索引",
-      "count": 43,
+      "count": 45,
       "error": ""
     },
     {
