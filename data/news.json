@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-11-25T13:41:14.653754Z",
+  "generated_at": "2026-11-25T17:17:27.592751Z",
   "records": [
+    {
+      "id": "rss-1a726a735f826b56d872",
+      "title": "新北某醫療照護機構住民死亡有疑點 負責人等移送複訊",
+      "source": "中央社社會",
+      "publisher_feed": "中央社社會",
+      "source_kind": "新聞RSS",
+      "published": "2026-11-25T14:16:14Z",
+      "captured": "2026-11-25T17:17:27.592751Z",
+      "url": "https://www.cna.com.tw/news/asoc/202611250335.aspx",
+      "summary": "（中央社記者黃旭昇、曹亞沿新北25日電）新北市傳有一所醫療照護機構住民死亡並留有遺書，更被控疑似凌虐病患等。新北檢警昨天兵分多路搜索，並帶回負責人等數人，稍早已全數移送新北地檢署複訊。",
+      "category": "其他政策",
+      "topic": "其他政策",
+      "risk": "高",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "需查閱原始內容，再評估是否連動健保制度。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
     {
       "id": "rss-089f4f75f5bb7778d986",
       "title": "薛仕凌坦承付款30萬 不認閃兵稱本來患有高血壓",
@@ -283,6 +305,28 @@
       "law": "",
       "stakeholders": "",
       "linkage": "可能影響家庭收入與政府社福預算；不應推論年金金額直接計入健保投保金額。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
+      "id": "rss-54c5d5f64696dbb63ee0",
+      "title": "【繳費小撇步分享】 水電費、電信費、健保費這些帳單，每個月本來就都要繳 但你知道...如果選對時間用對方法，還能再順手多拿一點回饋唷！ #悠遊付 💡 每月「逢1繳費日（1、11、21、31號）」享加碼2% 💡 搭配週五回饋與月級挑戰，符合條件最高可疊加到7%！ 而且11/25",
+      "source": "Facebook",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-25T04:10:03Z",
+      "captured": "2026-11-25T17:17:27.592751Z",
+      "url": "https://news.google.com/rss/articles/CBMiqAdBVV95cUxOaFl6N19WOE11TU1mdHhTeURDZXRvSkl1aFZPb2NLUEV4T0NMU0RTajdOTnRpamh0NHludHJUTGwwVVhwYUs5NllFeWxsVWNjWjl5bkltSVZWUE00bVRCbmI5cDk2MnRKTVE0UWc4ZGNBLUlzcGFfcWZQcndDNWpRZU42aWtkVG5Bb0FCWk9aTlp2ZWd4M0xsT3VkS0VIZUxvRFRUMm5uS0s4dGllU3g0V1ZrZ21PbDJMb1FJX3h3NFVWaXgydFg4NFVybV9FVFRaLTY1NUhod2ZDY1kwSmZ1eVltM2VlSGtDUjZNUVZJZWwxTWowSkUwQ05mVExJbUpBYW5vS3FyU1RmeEpGSDk1MVlYX1VXVXk1TTY2VGFxZjhnUHhLOG04Q0VRMnpCanJILV9UTzcwVW44YU9WdlU0RWl1ZEdQNGRSZjF5Z2VKdEpZZDZsYUtDUlpYZDRuYXdNTHQ5RWh6UDZ4SUVKb21VQ1g5aHg3MUVEdkZUUk9VVXFGWmVQc3VjVTVVcDB2VS1jNmlUUHFjRzVoMEdEVThuMDZhMVJxT3Z2QkdUVGk5Z2trSG9jU1NudlJYeHd6OXN0RXpiY0xTSXpoY08tbzhVeExhZVBCN19tUi16VVBFeEwzTWVodm9udDNGWVBNYkhELWtlSDJrbVk4d2QyTThRWnRfd2FUT2N2YWNabXMtbkpvUkstbjdLU1BzdE9hRW9oZzFBalBTZUZ6Z0NxMU5OWVd4MVNOWFhEYjhnTnVURmZaVHhycnlqNVIzV1h1X3Ywb3RvSklIVlg5UC1XR1JPWTQzc1BwZGd2REh2OFdSaVhXeGhlOUVFY3ZqRWNGRjJydV95MUhpV3Y4Z215ODBGR0FuaGc0cUVIaUlIa1hhTGFZVVVpZFVtUm5KZmNFN295M21SQXhocjh0UHEwdjFQd2Iwcmlwa0tWMVlNeS12OThXa0hmWmstbnhXcG95QWRISzZkWUFyYWRwUUVHZWhRcXZZU0RMTzJuYmk5MUc5OGtRVU8yeElQRXZIY2R2aTlIbzlsMF9BWk5fZUFhXzgxb1ZHZVRQOTJiYXJIY09RNTRhZ0I2N0k3MFFFY1dHdEZyM3ZscUZuU1VEdVFCMjQ0Y3ZzWUxxNHk4c1hoc2FOQ19lMDM3cENwdndhUl90MnRzM013OHk0LXVraVV5UFhvR1JYcFlwNWVtaFdKYkxqWEo1eDNOS3dyWmNWQ1BaMnBFbFNubnM1TnQ?oc=5",
+      "summary": "【繳費小撇步分享】 水電費、電信費、健保費這些帳單，每個月本來就都要繳 但你知道...如果選對時間用對方法，還能再順手多拿一點回饋唷！ #悠遊付 💡 每月「逢1繳費日（1、11、21、31號）」享加碼2% 💡 搭配週五回饋與月級挑戰，符合條件最高可疊加到7%！ 而且11/25 Facebook",
+      "category": "健保保費與財務",
+      "topic": "健保保費與財務",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "涉及健保基金收入、保險費負擔及政府預算，需區分基金與公務預算。",
       "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
       "note": "",
       "draft": ""
@@ -12700,7 +12744,7 @@
     },
     {
       "name": "健保署公告索引",
-      "count": 100,
+      "count": 65,
       "error": ""
     },
     {
@@ -12720,7 +12764,7 @@
     },
     {
       "name": "主流媒體相關議題索引",
-      "count": 65,
+      "count": 64,
       "error": ""
     }
   ],
