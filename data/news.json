@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T17:24:17.485596Z",
+  "generated_at": "2026-11-27T21:13:12.938497Z",
   "records": [
     {
       "id": "rss-1cdcc2fcbc74880716aa",
@@ -55,6 +55,28 @@
       "captured": "2026-11-27T13:36:55.935704Z",
       "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNaVIxZXczTW0tV3JacWc1bURYbVhvbjdBWEprWE5VdEJHT1FTOVdRcDkxUlhudnM1WlRyZ1hLNmxvZjNzT3Y1MUowT3VkYlFjUjV4UlNuSHRtSXVsbUFYdU0xQzNOcHdIZ1ppdnplSk5wQ2JCajNKWENyX19ldC05ZE81elZidXFxXzN3SDRVU3JhMThFQ1lXVzNQYzRlVjRpS181TnJHZWZwdWRPQjZHNGFQdjYxeGpYT0lGekpLU01XQ0pHZTBzeWRkMjNSWndialBFbjQ1R2huV3Bic2xGVUFFN0cyVXA3ME9EQ2U3NzFKSVRPNjNBR2dqTkJmcUJxcTc0a0NWbXdBMEVmWnJ4LTMwS0tNQUtDcXpMMkV1T3ljNWg4c3B4RTU0ZTlfbm1DY3JveVVJY3BfSk5DR2NyVG0zSE5URUJtRkJvWW5odlktXzBiM3lqMHR0andoOGxwd0UtZ3pIRE5tdDFvZmtjS0Y3cmxtUWNmN2dOemV1UDVCNF96LTVoa3EwZWNVNnl6?oc=5",
       "summary": "自費減重、醫美也可能中招！健保署揭5大違規手法 快查健康存摺 Yahoo新聞",
+      "category": "健保資料與資訊安全",
+      "topic": "健保資料治理",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "可能涉及資料使用目的、個資及跨系統介接；需區分身分驗證與資料利用。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
+      "id": "rss-76ea8e750b14635d1807",
+      "title": "自費減重、醫美也可能中招！健保署揭5大違規手法快查健康存摺| 生活",
+      "source": "CTWANT",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-27T12:51:54Z",
+      "captured": "2026-11-27T21:13:12.938497Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03cG12enZ0SXI5YXNKZFpEdklNM19uQ09BMkdGcjhILTVsc2xwRFBFS1ZiNVFvT0xuc2E2OFZibzBNQ2k1cS1IVUhjbDRQcFU?oc=5",
+      "summary": "自費減重、醫美也可能中招！健保署揭5大違規手法快查健康存摺| 生活 CTWANT",
       "category": "健保資料與資訊安全",
       "topic": "健保資料治理",
       "risk": "中",
@@ -10562,6 +10584,28 @@
       "draft": ""
     },
     {
+      "id": "rss-b837d22141b9336c2999",
+      "title": "115 年 11 月 13 日立法院通過性別平等工作法部分條文對照表",
+      "source": "勞動部全球資訊網",
+      "publisher_feed": "勞動與工資政策索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-17T08:58:28Z",
+      "captured": "2026-11-27T21:13:12.938497Z",
+      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNZktncmoyQ0ZYMW1yX3MxcHhsRFNTTHpTLVkxVm5FSl9TN3lyY2RWTEtzSFBzRVpCd0hGWUFuenYzQjlvejV6UTlpeDNVTmp2X2FkdWVld05SRzVxRFowV0FZdHA5YUtlX01JeUs5Tnhld1hBb2kzUkFNN0lkdkgyQVJVLU92XzdlVWk2QlJPTkFWNV9pUFgxZG1GaU03bll4YWwxWXZCdmFyMFlqMVl4czZkYy1hOVQ4eDRxa2tiNWtyWS11ZFk5bEJPUkd6TC1kQzlmWXBYM04yQThkMk1LMlkwRFRCSHNlc1VXcVdVZXhLd1ZZZExDaUxHQm1jLVEwWF80OGhGamRpVTFfLVhHa2RnSjVzdXRrcTdZSWN1Ry1VRnRFdDg1MDJEMzZzTlV1OHFlSmZBbXFKa3dxR1NlVTRUMVYtTDhod1c0ako5UTFwOEplTVd5b2x1QnF4ZWgyQWltZ1FEal9vREREd1E?oc=5",
+      "summary": "115 年 11 月 13 日立法院通過性別平等工作法部分條文對照表 勞動部全球資訊網",
+      "category": "勞動薪資與就業",
+      "topic": "勞動薪資與就業",
+      "risk": "低",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "薪資、受僱身分及最低工資調整可能連動投保金額及保費負擔。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
       "id": "rss-5e052bea2f5adf460d0a",
       "title": "藥局倒閉潮 健保署：特約藥局10年成長27%",
       "source": "中央社 CNA",
@@ -15186,7 +15230,7 @@
     },
     {
       "name": "健保署公告索引",
-      "count": 73,
+      "count": 74,
       "error": ""
     },
     {
@@ -15196,17 +15240,17 @@
     },
     {
       "name": "勞動與工資政策索引",
-      "count": 100,
+      "count": 66,
       "error": ""
     },
     {
       "name": "居留與依親政策索引",
-      "count": 100,
+      "count": 41,
       "error": ""
     },
     {
       "name": "主流媒體相關議題索引",
-      "count": 100,
+      "count": 53,
       "error": ""
     }
   ],
