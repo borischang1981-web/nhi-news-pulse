@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T01:36:33.831470Z",
+  "generated_at": "2026-11-28T05:18:48.393766Z",
   "records": [
     {
       "id": "rss-1cdcc2fcbc74880716aa",
@@ -503,6 +503,28 @@
       "law": "",
       "stakeholders": "",
       "linkage": "薪資、受僱身分及最低工資調整可能連動投保金額及保費負擔。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
+      "id": "rss-1c7f02dd519d1cd1efd0",
+      "title": "病人資訊-Patient TWPAS - Examples - 臺灣健保癌症用藥事前審查實作指引v1.0.2",
+      "source": "nhicore.nhi.gov.tw",
+      "publisher_feed": "健保署公告索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-27T00:05:31Z",
+      "captured": "2026-11-28T05:18:48.393766Z",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOWxBX3o0RUtOeUlReHRYcHBQYkFNVVJnYTlORHlEM0d1WUtLVVk3M3dqVXlkVk5xeDE5QWVERElBeXlnX2UySHF2eWt5cWxHNWxMcTdJX0VHMkt1QldrcG1YUDE5akZvOFB5TlRQWE9Obkc0TzVfdnl0bHd4Vi1KbTJEcVFoUUh1dnVMOA?oc=5",
+      "summary": "病人資訊-Patient TWPAS - Examples - 臺灣健保癌症用藥事前審查實作指引v1.0.2 nhicore.nhi.gov.tw",
+      "category": "其他政策",
+      "topic": "其他政策",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "需查閱原始內容，再評估是否連動健保制度。",
       "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
       "note": "",
       "draft": ""
@@ -4653,6 +4675,28 @@
       "captured": "2026-11-26T01:39:51.690956Z",
       "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQTGZpUWZtRWU4THFXbkJsbUhjSlNMN0MzVUFKdmU0bVZpdTIzYUo0eXR6VnhQZnRoSVZDMHg5NW5CZnkwdGxpSHUyUzFmQzdPTEwtNU5aVXBSRVhoaXQ3ZjY1NEw1VzBFR0FvOEJfVEhzQ2JXNUFIVXctVmZtXzBkN2Y1ZnlmRUlRNnoxUEh5SHJCendfQTctUFdDblFpalRnelBJVnVIUTBmLVVod0tzQTlqVnNNeVBSS19JeVdkakRlRkNaREw3MFNIMGR2YlViWF93c01BQ1NrMEU1dnlTa3lPc2ZrMXV0QTVBUUdBeTJNU3V2Wkw4cUE4OGlxdWFlNmJPSDJPTkoyNFVRajZVeHJpYWtnY1NKUUJMc2RTa241dTVYVXMwam1fTXZQQWdPUjRfRF9LS2xyR0kzQWY0N1RGNWZJN19Gajd0Y0ZyVXhGUUR6YTVFdTJZdGIyTkl0OEFzLURyTQ?oc=5",
       "summary": "吳品叡政見發表會追問蔡易餘：為什不支持長者健保補助、老農津貼提升？ 報新聞 Mega News",
+      "category": "年金福利與退休",
+      "topic": "年金福利與退休",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "可能影響家庭收入與政府社福預算；不應推論年金金額直接計入健保投保金額。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
+      "id": "rss-bb566bf6135dd4bfc3c5",
+      "title": "吳品叡政見發表會追問蔡易餘：為什不支持長者健保補助、老農津貼提升？",
+      "source": "PChome Online 新聞",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-20T13:09:02Z",
+      "captured": "2026-11-28T05:18:48.393766Z",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcjNtanNQdDRkcWN5U19qYzlpY2N4dEhRb203VFpLdnctak5jS0N4ZW05ck45cDNPQ08wRndpSHk1WXJKazR0S3hZTXVrazl1NHlCTWE5Zk5NS0FyQkxZY0FfNlpsdlZMeWVUaElxQmQ3MkswNmxSTGlXWm42dGdnNUFudEpYa2s3MVJN?oc=5",
+      "summary": "吳品叡政見發表會追問蔡易餘：為什不支持長者健保補助、老農津貼提升？ PChome Online 新聞",
       "category": "年金福利與退休",
       "topic": "年金福利與退休",
       "risk": "中",
@@ -14170,6 +14214,28 @@
       "draft": ""
     },
     {
+      "id": "rss-a9900521d819ebe3b744",
+      "title": "攬才留臺！移民署走入臺北大開講 宣導僑外生畢業就業與居留權益",
+      "source": "新住民培力發展資訊網",
+      "publisher_feed": "居留與依親政策索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-11-03T11:18:34Z",
+      "captured": "2026-11-28T05:18:48.393766Z",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TMFdrcWU4b1h3V0dBYVhLTWI0MXc0N2RxMy0xWmZNZXV1b3Mxdm4yZmpQNnVpVzJZY0tFbHF1YmpMMFJpT2dNakp2R3MzdHFROVBzbHNmS0VKOVV6alUyU2xlWmpJSXZ1Wkc5cmZyeDcyRjhpSUxIa1Zn?oc=5",
+      "summary": "攬才留臺！移民署走入臺北大開講 宣導僑外生畢業就業與居留權益 新住民培力發展資訊網",
+      "category": "移民依親與外籍",
+      "topic": "外籍人士健保資格",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "居留、依親及勞動身分可能連動健保納保資格及等待期。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
       "id": "rss-e7d698ab31a5e3898948",
       "title": "【聲明】 有關網路流傳影片提到「外勞十年就領勞退」，此為錯誤訊息，勞動部(11/3)說明如下",
       "source": "勞動部全球資訊網中文網",
@@ -14473,6 +14539,28 @@
       "law": "",
       "stakeholders": "",
       "linkage": "涉及健保基金收入、保險費負擔及政府預算，需區分基金與公務預算。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
+      "id": "rss-27aa365e7bcefb6088b0",
+      "title": "促進工作平等措施",
+      "source": "勞動部全球資訊網",
+      "publisher_feed": "勞動與工資政策索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-10-30T07:00:00Z",
+      "captured": "2026-11-28T05:18:48.393766Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6TVdVdEpUNGtGWkNzN00yc3F4VEFSdU56dFhhVFpBeHhiVWowRm1xa0ZqYlhhOEhfSDZ4ZThfTjVQQVpwSHMxcGJnWnBTa19BTk10UkV6ZzBnT01CblMybVFJbmd5VDhxalE?oc=5",
+      "summary": "促進工作平等措施 勞動部全球資訊網",
+      "category": "勞動薪資與就業",
+      "topic": "勞動薪資與就業",
+      "risk": "低",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "薪資、受僱身分及最低工資調整可能連動投保金額及保費負擔。",
       "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
       "note": "",
       "draft": ""
@@ -15252,7 +15340,7 @@
     },
     {
       "name": "健保署公告索引",
-      "count": 74,
+      "count": 100,
       "error": ""
     },
     {
@@ -15262,7 +15350,7 @@
     },
     {
       "name": "勞動與工資政策索引",
-      "count": 65,
+      "count": 100,
       "error": ""
     },
     {
@@ -15272,7 +15360,7 @@
     },
     {
       "name": "主流媒體相關議題索引",
-      "count": 100,
+      "count": 53,
       "error": ""
     }
   ],
