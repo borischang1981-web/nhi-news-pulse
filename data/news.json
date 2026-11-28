@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T21:13:12.938497Z",
+  "generated_at": "2026-11-28T01:36:33.831470Z",
   "records": [
     {
       "id": "rss-1cdcc2fcbc74880716aa",
@@ -14676,6 +14676,28 @@
       "draft": ""
     },
     {
+      "id": "rss-f107548e71e98f3ce0bf",
+      "title": "【外稿】從老人健保補助到普發現金 當政策買票成為朝野共識",
+      "source": "公民行動影音紀錄資料庫",
+      "publisher_feed": "主流媒體相關議題索引",
+      "source_kind": "Google新聞索引",
+      "published": "2026-10-19T07:00:00Z",
+      "captured": "2026-11-28T01:36:33.831470Z",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OcnFyaVN4aEI1MFI2bnVDSVUyRDZ2YlY0OE8tR2NKemF6MTdyVk1tbkdCR095enZKZnhfWkRPMFYtMWg0dzNwWW9Sc1Byb3ZSZlUw?oc=5",
+      "summary": "【外稿】從老人健保補助到普發現金 當政策買票成為朝野共識 公民行動影音紀錄資料庫",
+      "category": "高齡與長照",
+      "topic": "高齡與長照",
+      "risk": "中",
+      "verification": "待查證",
+      "response": "待評估",
+      "law": "",
+      "stakeholders": "",
+      "linkage": "可能影響醫療利用、長照與健保給付的分工，以及高齡人口資源配置。",
+      "analysis": "系統規則初判；尚未閱讀全文或核對官方原文。",
+      "note": "",
+      "draft": ""
+    },
+    {
       "id": "rss-94e40d564c5e9b46be28",
       "title": "部分長者免健保費 石崇良：保費可能調漲轉嫁15到64歲",
       "source": "中央社 CNA",
@@ -15235,22 +15257,22 @@
     },
     {
       "name": "立法院相關議案索引",
-      "count": 100,
+      "count": 53,
       "error": ""
     },
     {
       "name": "勞動與工資政策索引",
-      "count": 66,
+      "count": 65,
       "error": ""
     },
     {
       "name": "居留與依親政策索引",
-      "count": 41,
+      "count": 100,
       "error": ""
     },
     {
       "name": "主流媒體相關議題索引",
-      "count": 53,
+      "count": 100,
       "error": ""
     }
   ],
